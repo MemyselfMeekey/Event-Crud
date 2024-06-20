@@ -1,0 +1,14 @@
+[
+  {
+    "id": "b129ca3c-6577-4687-8651-422cf9c4d4b1",
+    "email": "johndoe3@gmail.com",
+    "name": "johndoe3",
+    "password": "$2b$10$ogPIJ3zyH.O0nNxzbcX5hudTBY7u2FeSANvcBc6jdpX.xOWNWHfzu"
+  },
+  {
+    "id": "b85458c3-9ed3-46ee-856e-3ad1a2b1482d",
+    "email": "johndoe4@gmail.com",
+    "name": "johndoe4",
+    "password": "$2b$10$TueQ/L0Ray28jvrcUCvHT.iiYG96kFbYvB5FZjeYvt.6EZvbCeFTq"
+  }
+]
